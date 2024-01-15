@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    padding: 10px 20px;
+    color: #333;
+    background-color: #fff;
+    position: relative;
+    border: 2px solid #333;
+    border-bottom: none;
+    display: inline-block;
+    transform: skew(-20deg); /* Skew the button to create a rhombus effect */
+    transition: background-color 0.3s, color 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: #333;
+    color: #fff;
+}
+
+nav ul li a::…
