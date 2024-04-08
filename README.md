@@ -29,21 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srividya&" alt="srividya" /></p>
 
-## Contributing
-
-Contributions to the Green Hydrogen Project are welcome! Whether you're interested in improving the electrolysis process, enhancing the chatbot functionality, or designing the website, there are many ways to contribute to the project. Feel free to submit pull requests or open issues to suggest improvements or report bugs.
-
-## Resources
-
-- [Electrolysis: How It Works](https://www.energy.gov/eere/fuelcells/electrolysis)
-- [Green Hydrogen: Benefits and Applications](https://www.iea.org/reports/the-future-of-hydrogen)
-- [Chatbot Development Guide](https://blog.hubspot.com/service/chatbot-guide)
-- [Website Design and Development Resources](https://developer.mozilla.org/en-US/docs/Learn)
-  
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 
 # Green Hydrogen Project
 
@@ -76,7 +61,6 @@ Contributions to the Green Hydrogen Project are welcome! Whether you're interest
 
 ## Resources
 
-- [Green hydrogen: How It Works](https://youtu.be/_PczntIQ8lQ)
 - [Green Hydrogen: Benefits and Applications](https://www.iea.org/reports/the-future-of-hydrogen)
 - [Chatbot Development Guide](https://blog.hubspot.com/service/chatbot-guide)
 - [Website Design and Development Resources](https://developer.mozilla.org/en-US/docs/Learn)
