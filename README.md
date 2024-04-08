@@ -77,7 +77,6 @@ Contributions to the Green Hydrogen Project are welcome! Whether you're interest
 ## Resources
 
 - [Green hydrogen: How It Works](https://youtu.be/_PczntIQ8lQ)
-- [Electrolyzer: How It Works](https://youtu.be/2B1E8zQ39Ew)
 - [Green Hydrogen: Benefits and Applications](https://www.iea.org/reports/the-future-of-hydrogen)
 - [Chatbot Development Guide](https://blog.hubspot.com/service/chatbot-guide)
 - [Website Design and Development Resources](https://developer.mozilla.org/en-US/docs/Learn)
