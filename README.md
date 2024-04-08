@@ -1,10 +1,9 @@
-# AGASTHYA
+![WhatsApp Image 2024-04-08 at 2 34 52 AM](https://github.com/srividyatatikondala/AGASTHYA/assets/154887465/196a60ed-75dc-4b4e-b6f5-471e706629a3)# AGASTHYA
 
 
 <h1 align="center">Hi 👋, I'm T.SRI VIDYA</h1>
 <h3 align="center">A Passionate Visionary : Crafting Sustainable Solutions for our planet</h3>
-
-Uploading WhatsApp Video 2024-04-08 at 1.50.43 AM.mp4…
+"
 
 
 <p align="left"><img src="https://github.com/srividyatatikondala/AGASTHYA/blob/main/depositphotos_633005046-stock-illustration-green-hydrogen-power-production-using.jpg"
@@ -77,7 +76,8 @@ Contributions to the Green Hydrogen Project are welcome! Whether you're interest
 
 ## Resources
 
-- [Electrolysis: How It Works](https://www.energy.gov/eere/fuelcells/electrolysis)
+- [Green hydrogen: How It Works](https://youtu.be/_PczntIQ8lQ)
+- [Electrolyzer: How It Works](https://youtu.be/2B1E8zQ39Ew)
 - [Green Hydrogen: Benefits and Applications](https://www.iea.org/reports/the-future-of-hydrogen)
 - [Chatbot Development Guide](https://blog.hubspot.com/service/chatbot-guide)
 - [Website Design and Development Resources](https://developer.mozilla.org/en-US/docs/Learn)
