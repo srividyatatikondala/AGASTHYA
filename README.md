@@ -1,8 +1,12 @@
 # AGASTHYA
 
-Uploading WhatsApp Video 2024-04-08 at 1.50.43 AM.mp4…
+
 <h1 align="center">Hi 👋, I'm T.SRI VIDYA</h1>
 <h3 align="center">A Passionate Visionary : Crafting Sustainable Solutions for our planet</h3>
+
+Uploading WhatsApp Video 2024-04-08 at 1.50.43 AM.mp4…
+
+
 <p align="left"><img src="https://github.com/srividyatatikondala/AGASTHYA/blob/main/depositphotos_633005046-stock-illustration-green-hydrogen-power-production-using.jpg"
 <p align="right"><a href="https://github.com/srividyatatikondala/AGASTHYA/blob/main/about.html">
 <p align="right"><a href="https://www.canva.com/design/DAGB0T0IU7k/PfguK991L_yfmGiS1kOiIg/edit?utm_content=DAGB0T0IU7k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
