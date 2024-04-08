@@ -30,8 +30,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srividya&" alt="srividya" /></p>
 
 OVERVIEW OF THE PROJECT:watch the vedio 
-- [our project:](https://youtu.be/2B1E8zQ39Ew)
-- [electrolyzer working:](https://youtu.be/7pnoLDWgYyA)
+- [our project:]("https://youtu.be/2B1E8zQ39Ew")
+- [electrolyzer working:]("https://youtu.be/7pnoLDWgYyA")
 # Green Hydrogen Project
 
 The Green Hydrogen Project aims to reduce air pollution by generating hydrogen through electrolysis, with water as a byproduct, resulting in zero emissions. Hydrogen produced through this process can be used as a clean energy source for various applications, including transportation, heating, and electricity generation.
