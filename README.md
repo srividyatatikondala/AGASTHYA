@@ -62,8 +62,8 @@ To get started with the Green Hydrogen Project, follow these steps:
 Contributions to the Green Hydrogen Project are welcome! Whether you're interested in improving the electrolysis process, enhancing the chatbot functionality, or designing the website, there are many ways to contribute to the project. Feel free to submit pull requests or open issues to suggest improvements or report bugs.
 
 
-- [our project:](https://youtu.be/2B1E8zQ39Ew)
-- [electrolyzer working:](https://youtu.be/7pnoLDWgYyA)
+- [our project:https://youtu.be/2B1E8zQ39Ew]
+- [electrolyzer working:https://youtu.be/7pnoLDWgYyA]
 ## Resources
 - [Green Hydrogen: Benefits and Applications](https://www.iea.org/reports/the-future-of-hydrogen)
 - [Chatbot Development Guide](https://blog.hubspot.com/service/chatbot-guide)
