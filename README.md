@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-04-08 at 2 34 52 AM](https://github.com/srividyatatikondala/AGASTHYA/assets/154887465/196a60ed-75dc-4b4e-b6f5-471e706629a3)# AGASTHYA
+# AGASTHYA
 
 
 <h1 align="center">Hi 👋, I'm T.SRI VIDYA</h1>
@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **USING GREEN HYDROGEN GAS TO RUN NON-POWERED VECHICLES**
 
-- 🌱 I’m currently learning **python,java,tensorflow**
+- 🌱 I’m currently learning **python,java,tensorflow,non-powered**
 
 - 📫 How to reach me **srividyatatikondala@gmail.com**
 
@@ -29,7 +29,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srividya&" alt="srividya" /></p>
 
-
+OVERVIEW OF THE PROJECT:watch the vedio 
+- [our project:](https://youtu.be/2B1E8zQ39Ew)
+- [electrolyzer working:](https://youtu.be/7pnoLDWgYyA)
 # Green Hydrogen Project
 
 The Green Hydrogen Project aims to reduce air pollution by generating hydrogen through electrolysis, with water as a byproduct, resulting in zero emissions. Hydrogen produced through this process can be used as a clean energy source for various applications, including transportation, heating, and electricity generation.
@@ -59,8 +61,10 @@ To get started with the Green Hydrogen Project, follow these steps:
 
 Contributions to the Green Hydrogen Project are welcome! Whether you're interested in improving the electrolysis process, enhancing the chatbot functionality, or designing the website, there are many ways to contribute to the project. Feel free to submit pull requests or open issues to suggest improvements or report bugs.
 
-## Resources
 
+- [our project:](https://youtu.be/2B1E8zQ39Ew)
+- [electrolyzer working:](https://youtu.be/7pnoLDWgYyA)
+## Resources
 - [Green Hydrogen: Benefits and Applications](https://www.iea.org/reports/the-future-of-hydrogen)
 - [Chatbot Development Guide](https://blog.hubspot.com/service/chatbot-guide)
 - [Website Design and Development Resources](https://developer.mozilla.org/en-US/docs/Learn)
