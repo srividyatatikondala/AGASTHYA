@@ -64,10 +64,8 @@ Contributions to the Green Hydrogen Project are welcome! Whether you're interest
 
 - [our project:https://youtu.be/2B1E8zQ39Ew]
 - [electrolyzer working:https://youtu.be/7pnoLDWgYyA]
-- [https://github.com/srividyatatikondala/AGASTHYA/blob/main/about.html]
 ## Resources
 - [Green Hydrogen: Benefits and Applications:https://www.iea.org/reports/the-future-of-hydrogen]
-- [Chatbot Development Guide:https://blog.hubspot.com/service/chatbot-guide]
 - [Website Design and Development Resources :https://developer.mozilla.org/en-US/docs/Learn]
   
 ## License
