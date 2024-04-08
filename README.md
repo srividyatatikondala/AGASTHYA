@@ -30,8 +30,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srividya&" alt="srividya" /></p>
 
 OVERVIEW OF THE PROJECT:watch the vedio 
-- [our project:]("https://youtu.be/2B1E8zQ39Ew")
-- [electrolyzer working:]("https://youtu.be/7pnoLDWgYyA")
+- [our project:"https://youtu.be/2B1E8zQ39Ew"]
+- [electrolyzer working:https://youtu.be/7pnoLDWgYyA]
 # Green Hydrogen Project
 
 The Green Hydrogen Project aims to reduce air pollution by generating hydrogen through electrolysis, with water as a byproduct, resulting in zero emissions. Hydrogen produced through this process can be used as a clean energy source for various applications, including transportation, heating, and electricity generation.
@@ -41,8 +41,9 @@ The Green Hydrogen Project aims to reduce air pollution by generating hydrogen t
 This repository contains the documentation, code, and resources related to the Green Hydrogen Project. The project is divided into the following components:
 
 1. **Hydrogen Production**: Utilizes electrolysis to produce hydrogen gas from water, with zero carbon emissions.
-2. **Chatbot**: A chatbot system integrated with the project to provide information and answer user queries regarding green hydrogen technology.
-3. **Website**: A website designed to provide comprehensive information about the project, its objectives, and the benefits of green hydrogen technology.
+2. **HICE**:HYDROGEN INTERNAL COMBUSTION ENGINE is used to run NON-POWERED VECHILES
+3. **Chatbot**: A chatbot system integrated with the project to provide information and answer user queries regarding green hydrogen technology.
+4. **Website**: A website designed to provide comprehensive information about the project, its objectives, and the benefits of green hydrogen technology.
 
 ## How It Works
 
