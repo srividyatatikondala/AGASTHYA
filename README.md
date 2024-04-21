@@ -1,7 +1,11 @@
 # AGASTHYA
 
 
-<h1 align="center">Hi 👋, I'm T.SRI VIDYA</h1>
+<h1 align="center">Hi 👋, I'm T.SRI VIDYA</h1
+<h1 align="center">MY TEAM DETAILS</h1>
+<h1 align="center">S.MURALI</h1>
+<h1 align="center">B.DEEPIKA</h1>
+<h1 align="center">G.VARSHITHA</h1>
 <h3 align="center">A Passionate Visionary : Crafting Sustainable Solutions for our planet</h3>
 "
 
